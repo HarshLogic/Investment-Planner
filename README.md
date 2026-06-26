@@ -2,7 +2,7 @@
 
 A premium, interactive portfolio allocation dashboard designed to help users structure their wealth elegantly. Input your salary, set your ideal allocation targets across diverse asset classes, and instantly visualize your monthly capital distribution.
 
-Live Demo: [investment-planner-portfolio.vercel.app](https://investment-planner-portfolio.vercel.app/)
+Live Demo: 
 
 ---
 
