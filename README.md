@@ -49,5 +49,5 @@ We are actively expanding this calculator into a full-scale, intelligent persona
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/investment-planner.git](https://github.com/your-username/investment-planner.git)
+   git clone [https://github.com/HarshLogic/investment-planner.git]
    cd investment-planner
